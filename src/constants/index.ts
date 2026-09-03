@@ -7,12 +7,6 @@
  * Assets
  */
 import {
-  CpuIcon,
-  GlobeIcon,
-  LayersIcon,
-  MailIcon,
-  SparklesIcon,
-  TerminalIcon,
   GraduationCapIcon,
   AwardIcon,
   GamepadIcon,
